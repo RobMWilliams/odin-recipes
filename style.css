@@ -1,0 +1,30 @@
+html{
+    background-color: bisque;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    font-size: 100px;
+    font-weight: bold;
+}
+
+div.List{
+    list-style-position: inside;
+    text-align: justify;
+    margin-top: 2%;
+    margin-inline: 30%;
+    border-style: inset;
+    border: 2rem;
+    border-color: black;
+    background-color: rgb(247, 241, 158);
+}
+
+.image{
+    width: 200px;
+    height: auto;
+    border: 10px;
+    border-color: black;
+}
